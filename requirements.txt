@@ -1,0 +1,5 @@
+Flask
+gevent
+gunicorn
+pdfminer3k
+requests
